@@ -108,4 +108,5 @@ while True:
                         break
                 score = 0
                 captured_emotions = []
+                sleep(900) #waiting 15minutes before starting to take pictures again
         sleep(5)
